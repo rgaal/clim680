@@ -4,12 +4,12 @@ This page is dedicated to the different types of analyses preformed throughout t
 
 ## Project Description & Motivation
 
-In my current research, I use hourly soil moisture values to understand how soil moisture content influences the initiation of organized convection. For this particular class, I used hourly soil moisture for homeworks 1 and 2. Using hourly data was a challenge for me, so for my project, I decided to used monthly soil moisture values instead. I wanted to assess the relationship (if any) that exists between soil moisture content and ENSO. My thinking in choosing this pair was due to the known impacts of ENSO on precipitation globally. Precipitation directly impacts the regional soil moisture (due to rainfall or a lack thereof). While it is unlikely that soil moisture itself has an impact on ENSO, there could be an impact on soil moisture state from El nino and La nina events (i.e. increased precip/anomalously wetter soils, and vice versa). 
+In my current research, I use hourly soil moisture values to understand how soil moisture content influences the initiation of organized convection. For this particular class, I used hourly soil moisture for homeworks 1 and 2. Using hourly data was a challenge for me, so for my project, I decided to use monthly soil moisture values instead. I wanted to assess the relationship (if any) that exists between soil moisture content and ENSO events. My thinking in choosing this pair was due to the known impacts of ENSO on precipitation globally. Precipitation directly impacts the regional soil moisture (due to rainfall or a lack thereof). While it is unlikely that soil moisture itself has an impact on ENSO, there could be an impact on soil moisture state from El nino and La nina events (i.e. increased precip/anomalously wetter soils, and vice versa). 
 
 ### Data Sources
 -ECMWF ERA-40 Mean Monthly Soil Moisture (SWVL1)
--The entire ERA40 archive spans 45 years: September 1957 - August 2002
--1.4° x 1.4° resolution
+- The entire ERA40 archive spans 45 years: September 1957 - August 2002
+- 1.4° x 1.4° resolution
 
 -Nino3.4 Index (calculated using the NOAA OISST data)
 -Monthly mean values (1982 - 2019)
