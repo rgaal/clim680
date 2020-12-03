@@ -38,4 +38,4 @@ Linear regression shoud give us a similar result to what we see in the correlati
 
 ### Disclaimers & Other Notables
 
-During my analysis, I struggled with adding the cyclic point to my data; I kept recieving an error that my longitudes were not evenly spaced. 
+During my analysis, I struggled with adding the cyclic point to my data; I kept recieving an error that my longitudes were not evenly spaced. The sea mask that I also wanted to use did not want to work so the images that are in this project dont have a consistent values over non-land. I also realized while making this project that ENSO imapcts are highly seasonal: El Nino imapcts differ in boreal summer and boreal winter. It would be interesting and probably more informative to split up the soil moisture data into seasons and then preform the analyses to get a better idea of how these two variables are related. 
